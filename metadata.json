@@ -1,0 +1,5 @@
+{
+  "name": "AI Quiz Generator",
+  "description": "A dynamic quiz application that uses AI to generate unique multiple-choice questions on any topic selected by the user. Test your knowledge on endless subjects!",
+  "requestFramePermissions": []
+}
